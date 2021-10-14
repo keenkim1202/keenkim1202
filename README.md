@@ -65,7 +65,7 @@
 
 <h3 align="center"><b>✍🏻 Git Stats ✍🏻</b></h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keenkim1202&show_icons=true&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keenkim1202&show_icons=true&theme=flag-india)
   
   
   </div>
