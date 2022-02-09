@@ -32,7 +32,7 @@
   
 <h3 align="center"><b>💡 What I've Learned 💡</b></h3>
 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/swift-FA7343?style=for-the-badge&logo=swift&logoColor=FFFFFF"/></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/swift-FA7343?style=for-the-badge&logo=swift&logoColor=FFFFFF"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/pyhon-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=FFFFFF"/></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=FFFFFF"/></a>
@@ -46,6 +46,7 @@
 
 <h3 align="center"><b>✅ What I've Used ✅</b></h3>
   
+ <h3><b>Tools</b></h3>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/realm-39477F?style=for-the-badge&logo=realm&logoColor=FFFFFF"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/cocoapods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=FFFFFF"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/spm-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF"/></a>
@@ -59,7 +60,14 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=FFFFFF"/></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF"/></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=FFFFFF"/></a> 
+ 
+<br/>
+  <h3><b>Stacks</b></h3>
+ <h4>Firebase(Authentication, Crashlytics, Analytics) / Lottie / Alamofire / Moya / SwiftyJSON / Kingfisher / JGProgressHUD / Realm / Snapkit / TextFieldEffects / AnyFormatKit / IQKeyboardManager / Naver Maps API / Kakao Maps API
+ </h4>
+ <br/>
 
+  <h4>UStoryboard / AutoLayout / StackView / TableView / CollectionView / Custom HeaderView / CustomView / UserDefaults / DateFormatter / Extension / UIAlertController / Property Observer / Mapkit / Wepkit / Localization / FileManager / URLSession / Codable / Decodable</h4>
 <br/>
 <br/>  
 
