@@ -7,12 +7,6 @@
  
 <br/>
  
- <h3 align="center"><b>📝 MOTTO 🔥</b></h3>
-
- ##### ***앞만 보지말고, 뒤도보고 옆도 보자***  
- ##### ***뒤를 돌아보되, 얽매이지 말고 현재에 충실하자***  
- ##### ***조급하지 말자. 난 잘하고 있다!***
- 
 <img width="40%" src="https://user-images.githubusercontent.com/59866819/135971516-3d261331-3c59-40b6-9ba1-44fdac4d73e4.jpeg" />
 
 <br/>
