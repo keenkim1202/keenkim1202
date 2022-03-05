@@ -6,6 +6,11 @@
  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=KEEN&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=iOS Developer&descAlignY=70">
  
 <br/>
+ 
+ <h3 align="center"><b> 🏷 Motto </b></h3>
+ <i> " Write Clean & Understandable Code " </i>
+ 
+<br/>
 <br/>
  
 <img width="40%" src="https://user-images.githubusercontent.com/59866819/135971516-3d261331-3c59-40b6-9ba1-44fdac4d73e4.jpeg" />
