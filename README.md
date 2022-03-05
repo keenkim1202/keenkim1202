@@ -3,7 +3,7 @@
 <br/>
 <br/>
  
- ![header](https://capsule-render.vercel.app/api?type=cylinder&color=007722&height=150&section=header&text=keenKim&fontSize=90&fontColor=72BE50)
+ ![header](https://capsule-render.vercel.app/api?type=cylinder&color=007722&height=150&section=header&text=KEEN&fontSize=90&fontColor=72BE50)
  
 <br/>
  
