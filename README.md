@@ -3,8 +3,9 @@
 <br/>
 <br/>
  
- ![header](https://capsule-render.vercel.app/api?type=cylinder&color=007722&height=150&section=header&text=KEEN&fontSize=90&fontColor=72BE50)
+ <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=KEEN&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=iOS Developer&descAlignY=70">
  
+<br/>
 <br/>
  
 <img width="40%" src="https://user-images.githubusercontent.com/59866819/135971516-3d261331-3c59-40b6-9ba1-44fdac4d73e4.jpeg" />
@@ -67,7 +68,7 @@
 
 <h3 align="center"><b>✍🏻 Git Stats ✍🏻</b></h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keenkim1202&show_icons=true&theme=flag-india)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keenkim1202&show_icons=true&theme=vue-dark)
   
   
   </div>
