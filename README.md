@@ -36,9 +36,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/pyhon-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=FFFFFF"/></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=FFFFFF"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=FFFFFF"/></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=FFFFFF"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=FFFFFF"/></a> 
   
 <br/>
