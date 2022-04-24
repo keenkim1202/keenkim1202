@@ -57,6 +57,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=FFFFFF"/></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF"/></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=FFFFFF"/></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/confluence-147EFB?style=for-the-badge&logo=confluence&logoColor=#172B4D"/></a> 
  
 <br/>
   <h3><b>Stacks</b></h3>
