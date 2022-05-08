@@ -74,8 +74,11 @@
  
 <h3 align="center"><b>✍🏻 Git Stats ✍🏻</b></h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keenkim1202&show_icons=true&theme=vue-dark)
-  
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keenkim1202&show_icons=true&theme=vue-dark)
+ 
+ </br>
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keenkim1202&layout=compact&theme=vue-dark)
   
   </div>
   
