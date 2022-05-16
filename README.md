@@ -74,11 +74,12 @@
  
 <h3 align="center"><b>✍🏻 Git Stats ✍🏻</b></h3>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keenkim1202&show_icons=true&theme=vue-dark)
+ [![KEEN's Github stats](https://github-readme-stats.vercel.app/api?username=keenkim1202&count_private=true&custom_title=KEEN's&nbsp;status&nbsp;🧞‍♂️&bg_color=45,0094cf,ffe894&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
  
  </br>
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keenkim1202&layout=compact&theme=vue-dark)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keenkim1202&layout=compact&custom_title=My&nbsp;Languages&nbsp;Rank&bg_color=45,0094cf,ffe894&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
   
   </div>
   
