@@ -20,7 +20,7 @@
  
 <h3 align="center"><b>🖐 Today's Visits? 🖐</b></h3>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkeenkim1202%2Fhit-counter&count_bg=%23FF0000&title_bg=%23E5BB2A&icon=&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkeenkim1202%2Fhit-counter&count_bg=%2327B3D3&title_bg=%23FFC29A&icon=&icon_color=%230094CF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 <h3 align="center"><b>🤔 TIL 🤔</b></h3>
 
@@ -52,6 +52,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=FFFFFF"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=FFFFFF"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=FFFFFF"/></a>
+ </br>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/vsc-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF"/></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF"/></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
@@ -60,14 +61,33 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=FFFFFF"/></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/confluence-147EFB?style=for-the-badge&logo=confluence&logoColor=#172B4D"/></a> 
  
+ 
 <br/>
   <h3><b>Stacks</b></h3>
- <h4>Firebase(Authentication, Crashlytics, Analytics) / Lottie / Alamofire / Moya / SwiftyJSON / Kingfisher / JGProgressHUD / Realm / Snapkit / TextFieldEffects / AnyFormatKit / IQKeyboardManager / Naver Maps API / Kakao Maps API
+ <h4>
+  Firebase(Authentication, Crashlytics, Analytics)  
+   <br/>
+  Kingfisher / Realm / Snapkit / TextFieldEffects
+   <br/>
+  Alamofire / Moya / SwiftyJSON / Naver Maps API / Kakao Maps API 
+   <br/>
+  Lottie / Charts / JGProgressHUD / AnyFormatKit / IQKeyboardManager  
  </h4>
  <br/>
 
  
-  <h4>UStoryboard / AutoLayout / StackView / TableView / CollectionView / Custom HeaderView / CustomView / UserDefaults / DateFormatter / Extension / UIAlertController / Property Observer / Mapkit / Wepkit / Localization / FileManager / URLSession / Codable / Decodable</h4>
+  <h4> 
+   UIStoryboard / AutoLayout
+    <br/>
+   StackView / TableView / CollectionView / Custom HeaderView / CustomView
+    <br/>
+   UserDefaults / FileManager / DateFormatter / Extension / UIAlertController / Property Observer 
+    <br/>
+   Mapkit / Wepkit / Localization / CoreData
+    <br/>
+   URLSession / Codable / Decodable
+   ...
+ </h4>
  <br/>
  <br/>  
 
