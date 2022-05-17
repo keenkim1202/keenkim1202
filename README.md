@@ -71,7 +71,9 @@
    <br/>
   Alamofire / Moya / SwiftyJSON / Naver Maps API / Kakao Maps API 
    <br/>
-  Lottie / Charts / JGProgressHUD / AnyFormatKit / IQKeyboardManager  
+  Lottie / Charts / JGProgressHUD / AnyFormatKit / IQKeyboardManager   
+   <br/>
+ ...
  </h4>
  <br/>
 
@@ -86,6 +88,7 @@
    Mapkit / Wepkit / Localization / CoreData
     <br/>
    URLSession / Codable / Decodable
+    <br/>
    ...
  </h4>
  <br/>
