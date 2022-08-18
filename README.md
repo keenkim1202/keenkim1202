@@ -1,10 +1,10 @@
+
 <div align=center>
  
 <br/>
 <br/>
  
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=KEEN&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=iOS Developer&descAlignY=70" />
- 
+ ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=KEEN&fontSize=40&animation=fadeIn&fontAlignY=45&desc=iOS+Software+Engineer&descAlignY=70&descAlign=50)
  
 <br/>
  
