@@ -3,7 +3,7 @@
 <br/>
 <br/>
  
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=KEEN&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=iOS Developer&descAlignY=70">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=KEEN&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=iOS Developer&descAlignY=70" />
  
  
 <br/>
