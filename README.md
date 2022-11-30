@@ -68,7 +68,7 @@
  <h4>
   Firebase(Authentication, Crashlytics, Analytics)  
    <br/>
-  Kingfisher / Realm / Snapkit / TextFieldEffects
+  Kingfisher / Realm / Snapkit / FlexLayout / PinLayout / TextFieldEffects
    <br/>
   Alamofire / Moya / SwiftyJSON / Naver Maps API / Kakao Maps API 
    <br/>
@@ -80,7 +80,7 @@
 
  
   <h4> 
-   UIStoryboard / AutoLayout
+   UIStoryboard / AutoLayout / SwiftUI
     <br/>
    StackView / TableView / CollectionView / Custom HeaderView / CustomView
     <br/>
