@@ -106,7 +106,7 @@
 
  </br>
 
- <a href="https://opgc.me/#/users/keenkim1202" target="_blank"><img src="https://api.opgc.me/githubs/users/keenkim1202/tag/?theme=basic" /></a>
+<!--  <a href="https://opgc.me/#/users/keenkim1202" target="_blank"><img src="https://api.opgc.me/githubs/users/keenkim1202/tag/?theme=basic" /></a> -->
   
   </div>
   
