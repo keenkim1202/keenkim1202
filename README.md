@@ -110,5 +110,7 @@
   
   </div>
   
-  
-  
+  [![banner (App store badge   Downloads)](https://user-images.githubusercontent.com/59866819/205482577-6e986b20-0ba5-43bf-b215-db27e872160c.png)](https://apps.apple.com/kr/app/%EC%99%93%EB%8D%94%EC%BB%A4%ED%94%BC/id1596847335?l=en)
+
+
+
