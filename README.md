@@ -34,11 +34,13 @@
 <h3 align="center"><b>💡 What I've Learned 💡</b></h3>
 
  <a href="" target="_blank"><img src="https://img.shields.io/badge/swift-FA7343?style=for-the-badge&logo=swift&logoColor=FFFFFF"/></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/swiftUI-65d0f1?style=for-the-badge&logo=swift&logoColor=FFFFFF"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/pyhon-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=FFFFFF"/></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=FFFFFF"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=FFFFFF"/></a> 
+
   
 <br/>
  
@@ -46,22 +48,28 @@
 <h3 align="center"><b>✅ What I've Used ✅</b></h3>
   
  <h3><b>Tools</b></h3>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/realm-39477F?style=for-the-badge&logo=realm&logoColor=FFFFFF"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF"/></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=FFFFFF"/></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=#172B4D"/></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=FFFFFF"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF"/></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/sentry-362D59?style=for-the-badge&logo=sentry&logoColor=FFFFFF"/></a>
+
+  </br>
+  
   <a href="" target="_blank"><img src="https://img.shields.io/badge/cocoapods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=FFFFFF"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/spm-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/carthage-5586A4?style=for-the-badge&logo=carthage&logoColor=FFFFFF"/></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=FFFFFF"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=FFFFFF"/></a>
+  
+  </br>
+  
   <a href="" target="_blank"><img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=FFFFFF"/></a>
- </br>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/vsc-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF"/></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF"/></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=FFFFFF"/></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF"/></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=FFFFFF"/></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/confluence-147EFB?style=for-the-badge&logo=confluence&logoColor=#172B4D"/></a> 
- 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/realm-39477F?style=for-the-badge&logo=realm&logoColor=FFFFFF"/></a>
  
 <br/>
   <h3><b>Stacks</b></h3>
