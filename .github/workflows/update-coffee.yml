@@ -1,0 +1,48 @@
+name: Update Today's Coffee
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 매일 UTC 00:00 (KST 09:00)
+  workflow_dispatch: # 수동 실행도 가능
+
+jobs:
+  update-coffee:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update coffee recommendation
+        run: |
+          COFFEES=(
+            "아이스 아메리카노"
+            "카페 라떼"
+            "바닐라 라떼"
+            "카라멜 마키아또"
+            "콜드브루"
+            "플랫 화이트"
+            "에스프레소"
+            "카푸치노"
+            "모카"
+            "아인슈페너"
+            "드립 커피"
+            "더치 커피"
+            "헤이즐넛 라떼"
+            "돌체 라떼"
+            "말차 라떼"
+            "오트밀크 라떼"
+            "디카페인 라떼"
+            "코르타도"
+            "아포가토"
+            "연유 라떼"
+          )
+          RANDOM_COFFEE=${COFFEES[$((RANDOM % ${#COFFEES[@]}))]}
+          BADGE_NAME=$(echo "${RANDOM_COFFEE}" | sed 's/ /_/g')
+          sed -i "s|<!-- COFFEE_START -->.*<!-- COFFEE_END -->|<!-- COFFEE_START --><img src=\"https://img.shields.io/badge/${BADGE_NAME}-8B5E3C?style=flat-square\" /> 한 잔 어때요?<!-- COFFEE_END -->|" README.md
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || (git add README.md && git commit -m "update today's coffee" && git push)
