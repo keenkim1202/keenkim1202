@@ -7,7 +7,21 @@
 
 📍 Seoul, Korea &nbsp;|&nbsp; 📝 [Blog](https://nareunhagae.tistory.com) &nbsp;|&nbsp; 📧 [Email](mailto:keenkim1202@gmail.com)
 
-☕ 오늘의 커피: <!-- COFFEE_START -->**아이스 아메리카노**<!-- COFFEE_END -->
+<br/>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/hjGQ0FKxaj0dkarrlY/giphy.gif" width="100" />
+      <br/>
+      ☕ 오늘 뭐 마시지...? <!-- COFFEE_START --><img src="https://img.shields.io/badge/아이스_아메리카노-8B5E3C?style=flat-square&logoColor=white" height="18" align="center" /> 한 잔 어때요?<!-- COFFEE_END -->
+      <br/>
+      <sub>🔄 매일 오전 9시에 새로운 커피가 추천됩니다</sub>
+      <br/>
+      <sub>👀 맨날 같은 거만 마신다면... <a href="https://apps.apple.com/kr/app/%EC%99%93%EB%8D%94%EC%BB%A4%ED%94%BC/id1596847335?l=en">왓더커피</a>가 골라줄게요</sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
