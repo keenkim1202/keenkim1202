@@ -14,7 +14,7 @@
     <td align="center">
       <img src="https://media.giphy.com/media/hjGQ0FKxaj0dkarrlY/giphy.gif" width="100" />
       <br/>
-      ☕ 오늘 뭐 마시지...? <!-- COFFEE_START --><img src="https://img.shields.io/badge/카라멜_마키아또-8B5E3C?style=flat-square" /> 한 잔 어때요?<!-- COFFEE_END -->
+      ☕ 오늘 뭐 마시지...? <!-- COFFEE_START --><img src="https://img.shields.io/badge/아이스_아메리카노-8B5E3C?style=flat-square" /> 한 잔 어때요?<!-- COFFEE_END -->
       <br/>
       <sub>🔄 매일 오전 9시에 새로운 커피가 추천됩니다</sub>
       <br/>
