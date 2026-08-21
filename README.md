@@ -63,4 +63,18 @@
 
 <br/>
 
+---
+
+### On Appstore
+
+<a href="https://apps.apple.com/kr/app/%EC%99%93%EB%8D%94%EC%BB%A4%ED%94%BC/id1596847335?l=en">
+  <img width="720" alt="what_the_coffee_app_store_banner2" src="https://github.com/user-attachments/assets/db8702df-2542-43c9-a648-5478ae5bc14e" />
+</a>
+
+<br/>
+
+<a href="https://apps.apple.com/kr/app/company-detonator/id6800525364?l=en-GB&mt=12">
+  <img width="720" alt="app_store_banner" src="https://github.com/user-attachments/assets/72af5aa5-82c0-4a9e-aa47-52b427438581" />
+</a>
+
 </div>
