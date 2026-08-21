@@ -37,21 +37,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Libraries**
-
-![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?style=flat-square)
-![Alamofire](https://img.shields.io/badge/Alamofire-E8433E?style=flat-square)
-![Moya](https://img.shields.io/badge/Moya-FF3B30?style=flat-square)
-![Realm](https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=realm&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Starscream](https://img.shields.io/badge/Starscream-FFD700?style=flat-square)
-![SnapKit](https://img.shields.io/badge/SnapKit-2396F3?style=flat-square)
-![Kingfisher](https://img.shields.io/badge/Kingfisher-5091CD?style=flat-square)
-![SwiftGen](https://img.shields.io/badge/SwiftGen-6B7280?style=flat-square)
-![FlexLayout](https://img.shields.io/badge/FlexLayout-FF6B35?style=flat-square)
-![Lottie](https://img.shields.io/badge/Lottie-00DDB3?style=flat-square)
-
-**CI/CD & Tools**
+**Tools**
 
 ![Bitrise](https://img.shields.io/badge/Bitrise-683D87?style=flat-square&logo=bitrise&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
