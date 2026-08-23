@@ -52,5 +52,4 @@
   <img width="720" alt="app_store_banner" src="https://github.com/user-attachments/assets/72af5aa5-82c0-4a9e-aa47-52b427438581" />
 </a>
 
-
 </div>
